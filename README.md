@@ -1,0 +1,2 @@
+# web-site-DR-solution
+the HA web site application architecture within a region further consists of web tier HA, app tier HA and DB tier HA. web tier HA and app tier HA could be achieved by applying **ELB (ALB/NLB for different scenarios) and auto-scaling** to ditribute workloads among different worker instances. while DB tier HA could be achieved by applying multi-AZ feature (deploy standby instances in other AZs within the same region, the data replication mechanism between primary and standy is synchronous).
