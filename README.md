@@ -10,6 +10,7 @@
 <img width="1205" alt="Screen Shot 2022-02-03 at 4 37 02 PM" src="https://user-images.githubusercontent.com/97269758/152308317-5f78d6ee-2fc7-4195-a324-f44b8513f42c.png">
 5. two records under the same Route53 hosted zone need to be created, one is for Region1, the other is for Region2.
 <img width="1017" alt="Screen Shot 2022-02-03 at 4 37 50 PM" src="https://user-images.githubusercontent.com/97269758/152308433-086f3ece-e4c3-44ac-8771-8f7f3c5059b3.png">
-
-7. 
-8.  
+<img width="1027" alt="Screen Shot 2022-02-03 at 4 40 25 PM" src="https://user-images.githubusercontent.com/97269758/152308816-c7a72ab4-1a34-4e62-a4be-e419c23fe498.png">
+6.the records are created as follows:
+<img width="1000" alt="Screen Shot 2022-02-03 at 4 41 48 PM" src="https://user-images.githubusercontent.com/97269758/152309021-717cb74e-0994-4497-9355-dad7dc4b72b0.png">
+  
