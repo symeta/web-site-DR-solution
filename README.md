@@ -4,5 +4,5 @@ the web site HA architecture within a region further consists of web tier HA, ap
 however, this level of DR design cannot cover the case when the entire region encounter a fail over. as result, a further solution dealing with the cross-region DR  needs to be designed, which is exactly the objective of this blog.
 
 this blog discusses:
-1. the migration of exisiting enterprise domain name, and use route53 as well as ELB to achieve cross-region web site entrance automatic switch over;
-2. comparison between DMS and read-replica under cross-region DR scenario.
+- [the migration of exisiting enterprise domain name, and use route53 as well as ELB to achieve cross-region web site entrance automatic switch over](https://github.com/symeta/web-site-DR-solution/tree/migrate-exisitng-enterprise-domain-name-to-aws-route53#migrate-existing-enterprise-domain-name-to-aws-route53-and-achieve-fail-over-switching-between-different-regions)
+- [comparison between DMS and read-replica under cross-region DR scenario](https://github.com/symeta/web-site-DR-solution/tree/comparison-between-DMS-and-RDS-read-replica#comparison-between-dms--rds-read-replica)
